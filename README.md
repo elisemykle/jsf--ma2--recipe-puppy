@@ -1,13 +1,5 @@
 # Module Assignment 2
 
-## Goal
-
-To implement your understanding of Vue.js.
-
-## Brief
-
-Demonstrate your understanding of Vue.js through theoretical and practical questions.
-
 ## Level 1 Process
 
 1. What is a component?
