@@ -20,4 +20,4 @@
 
 ## Submission
 
-Submit a link to the GitHub repository.   The question should be answered in the README.rd file.
+Submit a link to the GitHub repository.   The question should be answered in the README.md file.
